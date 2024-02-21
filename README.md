@@ -9,7 +9,7 @@ http://127.0.0.1:8000/api/login  //POST METHOD
 http://127.0.0.1:8000/api/logout //POST METHOD
 http://127.0.0.1:8000/api/users  //GET METHOD
 http://127.0.0.1:8000/api/user/{id}  //GET METHOD
-http://127.0.0.1:8000/api/user/{id}  //UPDATE METHOD
+http://127.0.0.1:8000/api/user/{id}  //PUT METHOD
 http://127.0.0.1:8000/api/user/{id}  //DELETE METHOD
 
 
